@@ -9,7 +9,7 @@
 
 ## Стэк:
 
-**Used:** HTML, CSS, JavaScript, PHP, MySQL
+**Использовал:** HTML, CSS, JavaScript, PHP, MySQL
 
 ## Установка
 
